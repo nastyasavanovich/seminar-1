@@ -1,4 +1,5 @@
-# seminar-1
-## второй заголовок
+# Savanovich Anastasia
+## Саванович Анастасия
 
-* раз
+* 18 yo
+* I love github and didgital litracy 
